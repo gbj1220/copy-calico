@@ -1,6 +1,6 @@
 .header {
   margin-top: 10px;
-  mont-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-size: small;
   display: inline;
 }
@@ -9,10 +9,6 @@
   margin-top: 10px;
   margin-right: 10px;
   margin-left: -20px;
-}
-
-#store {
-
 }
 
 #gmail {
@@ -47,6 +43,7 @@
   margin-top: -20px;
   margin-right: -125px;
   text-align: center;
+  margin-bottom: 400px;
 }
 
 .google-logo {
@@ -111,4 +108,41 @@
 #search-bar {
   text-align: center;
   margin-top: -100px;
+}
+
+ol li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  display: inline-flex;
+  padding: 20px;
+}
+
+.footer {
+  background-color: #F2F2F2;
+  color: #70757A;
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-top: -10px;
+}
+#advertising {
+  margin-left: -20px;
+}
+
+#business {
+
+}
+
+#how-search-works {
+  margin-right: 40px;
+
+}
+
+#privacy {
+  margin-left: 750px;
+}
+
+#terms {
+}
+
+#settings {
 }
